@@ -1,0 +1,16 @@
+.cart{
+    padding: 20px 0;
+    position: fixed;
+}
+.cart h2{
+    color: rgb(190, 82, 136);
+}
+.price{
+    color: rgb(216, 44, 73);
+}
+.bonus{
+    color: rgb(138, 207, 34);
+}
+.tPrice{
+    color: rgb(0, 25, 252);
+}
